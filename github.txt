@@ -1,0 +1,21 @@
+Github is going to be the way these notes are given to you
+It is going to allow me to update them with new information over time as well
+
+Githib is a cloud platform specifically for the source code of programs and projects.
+In this casem it is going to hold all of these notes
+
+On github, the source code is stored in things called repositories, and you can just think of these
+as large folders where everything is held.
+These repositories can be updated over time as new code is added and old code removed or changed.
+This is why github is nice for this case as I can update this code and you can get these updates.
+
+Github has some commands that you are going to want to know:
+
+git add _file_
+git commit -m "message"
+git push
+git pull
+
+For these commands, you will find the best explanations of how these work and how to use them over the
+internet, but I will ideally be able to show them to you in person as that will be the easiest way for
+you to understand them.

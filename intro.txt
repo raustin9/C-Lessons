@@ -1,0 +1,18 @@
+Introduction:
+
+Getting Set Up:
+ - VSCode
+ - g++ (compiler)
+ - GitHub
+
+Concepts:
+ - input/output
+ - variables & types of variables
+ - stringstreams
+ - if statements, conditions & swtich statements
+ - while loops
+ - for loops
+ - vectors
+ - functions
+ - classes
+ - pointers
