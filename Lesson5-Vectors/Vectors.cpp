@@ -41,7 +41,6 @@ int main() {
 }
 
 /*
-This program uses all of the main methods of a vector except for .insert() because its sucks and is retarded to have for a vector
 
 The first for loop pushes the numbers 0-99 into the vector and outputs them
 The second for loop then goes through the vector (now 100 elements) and deletes them
